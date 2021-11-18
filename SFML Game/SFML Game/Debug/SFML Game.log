@@ -1,0 +1,12 @@
+﻿  Animation.cpp
+c:\users\jaysonn\source\repos\sfml game\sfml game\animation.cpp(8): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\jaysonn\source\repos\sfml game\sfml game\animation.cpp(9): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  SFML Game.vcxproj -> C:\Users\Jaysonn\source\repos\SFML Game\Debug\SFML Game.exe
